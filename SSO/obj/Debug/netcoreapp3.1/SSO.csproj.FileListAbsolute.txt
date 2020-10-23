@@ -1,7 +1,0 @@
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.csprojAssemblyReference.cache
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.AssemblyInfoInputs.cache
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.AssemblyInfo.cs
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.csproj.CoreCompileInputs.cache
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.RazorAssemblyInfo.cache
-C:\Users\rakum6\source\repos\SSO\obj\Debug\netcoreapp3.1\SSO.RazorAssemblyInfo.cs
