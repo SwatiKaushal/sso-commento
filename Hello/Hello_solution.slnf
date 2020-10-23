@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "Hello.sln",
+    "projects": [
+      "..\\WebApp1\\WebApp1.csproj",
+      "..\\WebApp2\\WebApp2.csproj",
+      "SSO.csproj"
+    ]
+  }
+}
